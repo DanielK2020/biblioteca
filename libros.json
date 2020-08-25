@@ -5,8 +5,7 @@
         "isbn": "ISBN - 902 - 3467",
         "editorial": "Editorial A",
         "paginas": "200",
-        "autor": "Horacio Quiroga",
-        "img":
+        "autor": "Horacio Quiroga"
     },
     {
         "id": "2",
@@ -14,8 +13,7 @@
         "isbn": "ISBN - 902 - 9234",
         "editorial": "Editorial B",
         "paginas": "300",
-        "autor": "Mario Benedetti",
-        "img":
+        "autor": "Mario Benedetti"
     },
     {
         "id": "3",
@@ -23,8 +21,7 @@
         "isbn": "ISBN - 902 - 9245",
         "editorial": "Editorial C",
         "paginas": "250",
-        "autor": "Juan Carlos Onetti",
-        "img":
+        "autor": "Juan Carlos Onetti"
     },
     {
         "id": "4",
@@ -32,8 +29,7 @@
         "isbn": "ISBN - 902 - 3999",
         "editorial": "Editorial B",
         "paginas": "550",
-        "autor": "Roy Berocay",
-        "img":
+        "autor": "Roy Berocay"
     },
     {
         "id": "5",
@@ -41,7 +37,6 @@
         "isbn": "ISBN - 902 - 0932",
         "editorial": "Editorial A",
         "paginas": "400",
-        "autor": "Eduardo Galeano",
-        "img":
+        "autor": "Eduardo Galeano"
     }
 ]
